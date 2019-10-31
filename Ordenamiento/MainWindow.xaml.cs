@@ -45,7 +45,7 @@ namespace Ordenamiento
 
             int gap, temp, i, j;
             gap = miLista.Count / 2;
-            
+            //ahhh
             while(gap > 0)
             {
                 for(i=0; i<miLista.Count; i++)
